@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		35EE4BE8D9224828A1BAB444 /* libPods-TravisCIPractice.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0A8A3C8AC1F44AF68B92C5ED /* libPods-TravisCIPractice.a */; };
 		469728CE19158017004E94BC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 469728CD19158017004E94BC /* Foundation.framework */; };
 		469728D019158017004E94BC /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 469728CF19158017004E94BC /* CoreGraphics.framework */; };
 		469728D219158017004E94BC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 469728D119158017004E94BC /* UIKit.framework */; };
@@ -22,8 +23,7 @@
 		469728F219158017004E94BC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 469728D119158017004E94BC /* UIKit.framework */; };
 		469728FA19158017004E94BC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 469728F819158017004E94BC /* InfoPlist.strings */; };
 		469728FC19158017004E94BC /* TravisCIPracticeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 469728FB19158017004E94BC /* TravisCIPracticeTests.m */; };
-		4697F964191580AE00E6A10D /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 4697F963191580AE00E6A10D /* Podfile */; };
-		4697F9681915817100E6A10D /* .travis.yml  in Resources */ = {isa = PBXBuildFile; fileRef = 4697F9671915817100E6A10D /* .travis.yml  */; };
+		46C8EDA419158B1C009146AC /* .travis.yml in Resources */ = {isa = PBXBuildFile; fileRef = 46C8EDA319158B1C009146AC /* .travis.yml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0A8A3C8AC1F44AF68B92C5ED /* libPods-TravisCIPractice.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TravisCIPractice.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		469728CA19158017004E94BC /* TravisCIPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TravisCIPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		469728CD19158017004E94BC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		469728CF19158017004E94BC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -57,8 +58,8 @@
 		469728F719158017004E94BC /* TravisCIPracticeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TravisCIPracticeTests-Info.plist"; sourceTree = "<group>"; };
 		469728F919158017004E94BC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		469728FB19158017004E94BC /* TravisCIPracticeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TravisCIPracticeTests.m; sourceTree = "<group>"; };
-		4697F963191580AE00E6A10D /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
-		4697F9671915817100E6A10D /* .travis.yml  */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ".travis.yml "; sourceTree = SOURCE_ROOT; };
+		46C8EDA319158B1C009146AC /* .travis.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .travis.yml; sourceTree = "<group>"; };
+		D9CA5D8331B74558A8A472DA /* Pods-TravisCIPractice.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TravisCIPractice.xcconfig"; path = "Pods/Pods-TravisCIPractice.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +70,7 @@
 				469728D019158017004E94BC /* CoreGraphics.framework in Frameworks */,
 				469728D219158017004E94BC /* UIKit.framework in Frameworks */,
 				469728CE19158017004E94BC /* Foundation.framework in Frameworks */,
+				35EE4BE8D9224828A1BAB444 /* libPods-TravisCIPractice.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -92,6 +94,8 @@
 				469728F519158017004E94BC /* TravisCIPracticeTests */,
 				469728CC19158017004E94BC /* Frameworks */,
 				469728CB19158017004E94BC /* Products */,
+				D9CA5D8331B74558A8A472DA /* Pods-TravisCIPractice.xcconfig */,
+				46C8EDA319158B1C009146AC /* .travis.yml */,
 			);
 			sourceTree = "<group>";
 		};
@@ -111,6 +115,7 @@
 				469728CF19158017004E94BC /* CoreGraphics.framework */,
 				469728D119158017004E94BC /* UIKit.framework */,
 				469728EF19158017004E94BC /* XCTest.framework */,
+				0A8A3C8AC1F44AF68B92C5ED /* libPods-TravisCIPractice.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -125,8 +130,6 @@
 				469728E519158017004E94BC /* AMOViewController.h */,
 				469728E619158017004E94BC /* AMOViewController.m */,
 				469728E819158017004E94BC /* Images.xcassets */,
-				4697F963191580AE00E6A10D /* Podfile */,
-				4697F9671915817100E6A10D /* .travis.yml  */,
 				469728D419158017004E94BC /* Supporting Files */,
 			);
 			path = TravisCIPractice;
@@ -168,9 +171,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 469728FF19158017004E94BC /* Build configuration list for PBXNativeTarget "TravisCIPractice" */;
 			buildPhases = (
+				B293C7407E8649DFB4107C06 /* Check Pods Manifest.lock */,
 				469728C619158017004E94BC /* Sources */,
 				469728C719158017004E94BC /* Frameworks */,
 				469728C819158017004E94BC /* Resources */,
+				7BED7552927643D596D4EB34 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -238,8 +243,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4697F964191580AE00E6A10D /* Podfile in Resources */,
-				4697F9681915817100E6A10D /* .travis.yml  in Resources */,
+				46C8EDA419158B1C009146AC /* .travis.yml in Resources */,
 				469728E419158017004E94BC /* Main_iPad.storyboard in Resources */,
 				469728E919158017004E94BC /* Images.xcassets in Resources */,
 				469728E119158017004E94BC /* Main_iPhone.storyboard in Resources */,
@@ -256,6 +260,39 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		7BED7552927643D596D4EB34 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-TravisCIPractice-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B293C7407E8649DFB4107C06 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		469728C619158017004E94BC /* Sources */ = {
@@ -396,12 +433,14 @@
 		};
 		4697290019158017004E94BC /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D9CA5D8331B74558A8A472DA /* Pods-TravisCIPractice.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TravisCIPractice/TravisCIPractice-Prefix.pch";
 				INFOPLIST_FILE = "TravisCIPractice/TravisCIPractice-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -409,12 +448,14 @@
 		};
 		4697290119158017004E94BC /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D9CA5D8331B74558A8A472DA /* Pods-TravisCIPractice.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TravisCIPractice/TravisCIPractice-Prefix.pch";
 				INFOPLIST_FILE = "TravisCIPractice/TravisCIPractice-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};

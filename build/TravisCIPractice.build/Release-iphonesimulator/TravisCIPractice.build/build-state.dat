@@ -1,0 +1,588 @@
+TTravisCIPractice
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-axyxkkdljptwfddnbtcvaijbbirv/TravisCIPractice-Prefix.pch.pch TravisCIPractice/TravisCIPractice-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-hgidwrwuhmgtqwdscevnmaokysyf/TravisCIPractice-Prefix.pch.pch TravisCIPractice/TravisCIPractice-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/AMOViewController.o /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/AMOAppDelegate.o /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/main.o /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/AMOViewController.o /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/AMOAppDelegate.o /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/main.o /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/TravisCIPractice normal i386
+cLd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/TravisCIPractice normal x86_64
+cCreateUniversalBinary /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/TravisCIPractice normal i386\ x86_64
+cCompileStoryboard /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/Base.lproj/Main_iPhone.storyboard
+cCpResource .travis.yml\  build/Release-iphonesimulator/TravisCIPractice.app/.travis.yml\ 
+cCpResource TravisCIPractice/Podfile build/Release-iphonesimulator/TravisCIPractice.app/Podfile
+cCompileStoryboard /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/Base.lproj/Main_iPad.storyboard
+cCopyStringsFile /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/en.lproj/InfoPlist.strings TravisCIPractice/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/Images.xcassets
+cProcessInfoPlistFile /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/Info.plist /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/TravisCIPractice-Info.plist
+cGenerateDSYMFile /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app.dSYM /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/TravisCIPractice
+cTouch /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534D372F0000000000000198
+t1397569327
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533329C500000000000003B4
+t1395861957
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533329CD000000000000019E
+t1395861965
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534D351D0000000000446820
+t1397568797
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533329D2000000000088D8C0
+t1395861970
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533329DA0000000001F1DE10
+t1395861978
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533329F50000000000000ADC
+t1395862005
+s2780
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/.travis.yml 
+c0000000053654A390000000000000015
+t1399147065
+s21
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOAppDelegate.m
+c000000005365489700000000000007F0
+t1399146647
+s2032
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOViewController.m
+c00000000536548970000000000000209
+t1399146647
+s521
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/Base.lproj/Main_iPad.storyboard
+c00000000536548970000000000000716
+t1399146647
+s1814
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/Base.lproj/Main_iPhone.storyboard
+c0000000053654897000000000000071E
+t1399146647
+s1822
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/Images.xcassets
+c00000000536548970000000000000088
+t1399146647
+s136
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/Podfile
+c000000005365491300000000000000A6
+t1399146771
+s166
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/TravisCIPractice-Info.plist
+c00000000536548970000000000000637
+t1399146647
+s1591
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/TravisCIPractice-Prefix.pch
+c00000000536548970000000000000158
+t1399146647
+s344
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/en.lproj/InfoPlist.strings
+c0000000053654897000000000000002D
+t1399146647
+s45
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/main.m
+c00000000536548970000000000000167
+t1399146647
+s359
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app
+t1399148043
+s374
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app.dSYM
+t2
+s0
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/.travis.yml 
+t1399148042
+s21
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/Base.lproj/Main_iPad.storyboardc
+t1399148043
+s170
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/Base.lproj/Main_iPhone.storyboardc
+t1399148043
+s170
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/Info.plist
+t1399148043
+s1315
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/PkgInfo
+t1399148043
+s8
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/Podfile
+t1399148043
+s166
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/TravisCIPractice
+t1399148042
+s42100
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/en.lproj/InfoPlist.strings
+t1399148043
+s42
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/AMOAppDelegate.o
+t1399148042
+s61800
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/AMOViewController.o
+t1399148042
+s39144
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/TravisCIPractice
+t1399148042
+s17084
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/TravisCIPractice.LinkFileList
+c0000000053654E0900000000000001FD
+t1399148041
+s509
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/main.o
+t1399148042
+s3608
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/AMOAppDelegate.o
+t1399148042
+s68424
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/AMOViewController.o
+t1399148042
+s39940
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/TravisCIPractice
+t1399148042
+s17524
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/TravisCIPractice.LinkFileList
+c0000000053654E090000000000000203
+t1399148041
+s515
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/main.o
+t1399148042
+s4056
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/assetcatalog_dependencies.txt
+t1399148043
+s444
+
+N/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/assetcatalog_generated_info.plist
+t1399148043
+s525
+
+N/var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-axyxkkdljptwfddnbtcvaijbbirv/TravisCIPractice-Prefix.pch.pch
+t1399148042
+s116704
+
+N/var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-hgidwrwuhmgtqwdscevnmaokysyf/TravisCIPractice-Prefix.pch.pch
+t1399148042
+s117460
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies033ed3898515b941^3a59e6898515b941^---0#1#1#--18"Check dependencies36"90ED5C06-3263-4574-9252-1FFFE6FDB075-
+
+CCompileAssetCatalog /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/Images.xcassets
+s420840843.001450
+e420840843.956080
+r1
+xCompileAssetCatalog
+x/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app
+x/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/LaunchImage-700-568h@2x.png
+o/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/Assets.car
+o/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"[1mCompileAssetCatalog[0m build/Release-iphonesimulator/TravisCIPractice.app [1mTravisCIPractice/Images.xcassets[0m119"[1mCompileAssetCatalog[0m build/Release-iphonesimulator/TravisCIPractice.app [1mTravisCIPractice/Images.xcassets[0mc575008b8515b941^cac1f48b8515b941^-472"/* com.apple.actool.compilation-results *//Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/LaunchImage-700-568h@2x.png/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/Assets.car/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@108"file://localhost/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/Images.xcassets/0000000000000000^1407"[1mCompileAssetCatalog[0m build/Release-iphonesimulator/TravisCIPractice.app [1mTravisCIPractice/Images.xcassets[0m    cd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres93.app/Contents/MacOS/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --target-device ipad --compress-pngs --compile /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/Images.xcassets36"D2BF3E4C-44E5-4F57-B30B-9EEC28D32FB1-
+b28093BE5-DDCC-4734-85C9-15FC0104C36A
+
+CCompileC build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/AMOAppDelegate.o /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420840842.739889
+e420840842.846605
+r1
+xCompileC
+xbuild/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/AMOAppDelegate.o
+x/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOAppDelegate.m
+d/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOAppDelegate.m239"[1mCompileC[0m build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/AMOAppDelegate.o [1mTravisCIPractice/AMOAppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf089bd8a8515b941^0abbd88a8515b941^---0#0#1#-19%DVTDocumentLocation2@108"file://localhost/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOAppDelegate.m0000000000000000^4175"[1mCompileC[0m build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/AMOAppDelegate.o [1mTravisCIPractice/AMOAppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres93.app/Contents/MacOS/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=130 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-generated-files.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-own-target-headers.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-all-target-headers.hmap -iquote /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-project-headers.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/DerivedSources/i386 -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/DerivedSources -F/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator -include /var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-axyxkkdljptwfddnbtcvaijbbirv/TravisCIPractice-Prefix.pch -MMD -MT dependencies -MF /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/AMOAppDelegate.d --serialize-diagnostics /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/AMOAppDelegate.dia -c /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOAppDelegate.m -o /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/AMOAppDelegate.o36"D46EE950-8A1D-4CCE-A2E3-298730E6A09E-
+b28093BE5-DDCC-4734-85C9-15FC0104C36A
+
+CCompileC build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/AMOViewController.o /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420840842.739853
+e420840842.821821
+r1
+xCompileC
+xbuild/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/AMOViewController.o
+x/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOViewController.m
+d/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOViewController.m245"[1mCompileC[0m build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/AMOViewController.o [1mTravisCIPractice/AMOViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfd86bd8a8515b941^ed62d28a8515b941^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOViewController.m0000000000000000^4193"[1mCompileC[0m build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/AMOViewController.o [1mTravisCIPractice/AMOViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres93.app/Contents/MacOS/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=130 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-generated-files.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-own-target-headers.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-all-target-headers.hmap -iquote /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-project-headers.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/DerivedSources/i386 -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/DerivedSources -F/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator -include /var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-axyxkkdljptwfddnbtcvaijbbirv/TravisCIPractice-Prefix.pch -MMD -MT dependencies -MF /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/AMOViewController.d --serialize-diagnostics /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/AMOViewController.dia -c /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOViewController.m -o /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/AMOViewController.o36"94E67022-81D0-48EE-B38B-A4597DF9DC95-
+b28093BE5-DDCC-4734-85C9-15FC0104C36A
+
+CCompileC build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/main.o /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420840842.740487
+e420840842.794065
+r1
+xCompileC
+xbuild/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/main.o
+x/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/main.m
+d/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/main.m219"[1mCompileC[0m build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/main.o [1mTravisCIPractice/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler35b4bd8a8515b941^f757cb8a8515b941^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/main.m0000000000000000^4115"[1mCompileC[0m build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/main.o [1mTravisCIPractice/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres93.app/Contents/MacOS/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=130 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-generated-files.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-own-target-headers.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-all-target-headers.hmap -iquote /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-project-headers.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/DerivedSources/i386 -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/DerivedSources -F/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator -include /var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-axyxkkdljptwfddnbtcvaijbbirv/TravisCIPractice-Prefix.pch -MMD -MT dependencies -MF /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/main.dia -c /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/main.m -o /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/main.o36"DC745946-FBA4-418F-9AA2-B8C577C17DC0-
+b28093BE5-DDCC-4734-85C9-15FC0104C36A
+
+CCompileC build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/AMOAppDelegate.o /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420840842.795397
+e420840842.876056
+r1
+xCompileC
+xbuild/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/AMOAppDelegate.o
+x/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOAppDelegate.m
+d/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOAppDelegate.m243"[1mCompileC[0m build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/AMOAppDelegate.o [1mTravisCIPractice/AMOAppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler72c3cb8a8515b941^3545e08a8515b941^---0#0#1#-19%DVTDocumentLocation2@108"file://localhost/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOAppDelegate.m0000000000000000^4189"[1mCompileC[0m build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/AMOAppDelegate.o [1mTravisCIPractice/AMOAppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres93.app/Contents/MacOS/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=130 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-generated-files.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-own-target-headers.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-all-target-headers.hmap -iquote /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-project-headers.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/DerivedSources/x86_64 -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/DerivedSources -F/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator -include /var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-hgidwrwuhmgtqwdscevnmaokysyf/TravisCIPractice-Prefix.pch -MMD -MT dependencies -MF /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/AMOAppDelegate.d --serialize-diagnostics /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/AMOAppDelegate.dia -c /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOAppDelegate.m -o /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/AMOAppDelegate.o36"0369AFC8-1075-4700-9231-AD19876A4868-
+b28093BE5-DDCC-4734-85C9-15FC0104C36A
+
+CCompileC build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/AMOViewController.o /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420840842.740919
+e420840842.828745
+r1
+xCompileC
+xbuild/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/AMOViewController.o
+x/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOViewController.m
+d/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOViewController.m249"[1mCompileC[0m build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/AMOViewController.o [1mTravisCIPractice/AMOViewController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerebc8bd8a8515b941^4f3fd48a8515b941^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOViewController.m0000000000000000^4207"[1mCompileC[0m build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/AMOViewController.o [1mTravisCIPractice/AMOViewController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres93.app/Contents/MacOS/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=130 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-generated-files.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-own-target-headers.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-all-target-headers.hmap -iquote /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-project-headers.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/DerivedSources/x86_64 -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/DerivedSources -F/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator -include /var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-hgidwrwuhmgtqwdscevnmaokysyf/TravisCIPractice-Prefix.pch -MMD -MT dependencies -MF /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/AMOViewController.d --serialize-diagnostics /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/AMOViewController.dia -c /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOViewController.m -o /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/AMOViewController.o36"882A7998-D1D8-4369-B35C-1F68B262E78E-
+b28093BE5-DDCC-4734-85C9-15FC0104C36A
+
+CCompileC build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/main.o /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420840842.823678
+e420840842.861159
+r1
+xCompileC
+xbuild/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/main.o
+x/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/main.m
+d/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/AMOAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/main.m223"[1mCompileC[0m build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/main.o [1mTravisCIPractice/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler5b0bd38a8515b941^548fdc8a8515b941^---0#0#1#-19%DVTDocumentLocation2@98"file://localhost/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/main.m0000000000000000^4129"[1mCompileC[0m build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/main.o [1mTravisCIPractice/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres93.app/Contents/MacOS/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=130 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-generated-files.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-own-target-headers.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-all-target-headers.hmap -iquote /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-project-headers.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/DerivedSources/x86_64 -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/DerivedSources -F/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator -include /var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-hgidwrwuhmgtqwdscevnmaokysyf/TravisCIPractice-Prefix.pch -MMD -MT dependencies -MF /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/main.dia -c /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/main.m -o /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/main.o36"EC197F8D-7412-44B4-A8C1-ED417F2F8D29-
+b28093BE5-DDCC-4734-85C9-15FC0104C36A
+
+CCompileStoryboard /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/Base.lproj/Main_iPad.storyboard
+s420840842.997279
+e420840843.965445
+r1
+xCompileStoryboard
+x/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/Base.lproj/Main_iPad.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"[1mCompileStoryboard[0m [1mTravisCIPractice/Base.lproj/Main_iPad.storyboard[0m82"[1mCompileStoryboard[0m [1mTravisCIPractice/Base.lproj/Main_iPad.storyboard[0mc66aff8a8515b941^9c36f78b8515b941^---0#0#1#-19%DVTDocumentLocation2@123"file://localhost/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/Base.lproj/Main_iPad.storyboard0000000000000000^1048"[1mCompileStoryboard[0m [1mTravisCIPractice/Base.lproj/Main_iPad.storyboard[0m    cd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres93.app/Contents/MacOS/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/Base.lproj/Main_iPad.storyboardc /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/Base.lproj/Main_iPad.storyboard36"DA3730C0-0E68-4B4D-B3C4-BAC7C1C225AC-
+b28093BE5-DDCC-4734-85C9-15FC0104C36A
+
+CCompileStoryboard /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/Base.lproj/Main_iPhone.storyboard
+s420840842.996973
+e420840843.965206
+r1
+xCompileStoryboard
+x/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/Base.lproj/Main_iPhone.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"[1mCompileStoryboard[0m [1mTravisCIPractice/Base.lproj/Main_iPhone.storyboard[0m84"[1mCompileStoryboard[0m [1mTravisCIPractice/Base.lproj/Main_iPhone.storyboard[0m836aff8a8515b941^5b22f78b8515b941^---0#0#1#-19%DVTDocumentLocation2@125"file://localhost/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/Base.lproj/Main_iPhone.storyboard0000000000000000^1054"[1mCompileStoryboard[0m [1mTravisCIPractice/Base.lproj/Main_iPhone.storyboard[0m    cd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres93.app/Contents/MacOS/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/Base.lproj/Main_iPhone.storyboardc /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/Base.lproj/Main_iPhone.storyboard36"ECFBFCCC-0DB5-4F93-8D8A-783CB72B44E7-
+b28093BE5-DDCC-4734-85C9-15FC0104C36A
+
+CCopyStringsFile /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/en.lproj/InfoPlist.strings TravisCIPractice/en.lproj/InfoPlist.strings
+s420840843.000876
+e420840843.004277
+r1
+xCopyStringsFile
+x/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/en.lproj/InfoPlist.strings
+xTravisCIPractice/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy TravisCIPractice/en.lproj/InfoPlist.strings145"[1mCopyStringsFile[0m build/Release-iphonesimulator/TravisCIPractice.app/en.lproj/InfoPlist.strings TravisCIPractice/en.lproj/InfoPlist.strings2a53008b8515b941^202a018b8515b941^---0#0#1#-19%DVTDocumentLocation2@118"file://localhost/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/en.lproj/InfoPlist.strings0000000000000000^761"[1mCopyStringsFile[0m build/Release-iphonesimulator/TravisCIPractice.app/en.lproj/InfoPlist.strings TravisCIPractice/en.lproj/InfoPlist.strings    cd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres93.app/Contents/MacOS/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/en.lproj -- TravisCIPractice/en.lproj/InfoPlist.strings36"618336A0-4B0A-4FD3-A103-A40E5836B52A-
+b28093BE5-DDCC-4734-85C9-15FC0104C36A
+
+CCpResource .travis.yml\  build/Release-iphonesimulator/TravisCIPractice.app/.travis.yml\ 
+s420840842.996975
+e420840842.999625
+r1
+xCpResource
+x.travis.yml 
+xbuild/Release-iphonesimulator/TravisCIPractice.app/.travis.yml 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Release-iphonesimulator/TravisCIPractice.app/.travis.yml 97"[1mCpResource[0m .travis.yml\  build/Release-iphonesimulator/TravisCIPractice.app/.travis.yml\ 3b54ff8a8515b941^53e9ff8a8515b941^---0#0#1#-19%DVTDocumentLocation2@140"file://localhost/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/.travis.yml%200038cc9fdfffdf42^878"[1mCpResource[0m .travis.yml\  build/Release-iphonesimulator/TravisCIPractice.app/.travis.yml\     cd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres93.app/Contents/MacOS/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/.travis.yml\  /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app36"C380FB2F-4B35-48A4-9A31-9FD8A5D714F2-
+b28093BE5-DDCC-4734-85C9-15FC0104C36A
+
+CCpResource TravisCIPractice/Podfile build/Release-iphonesimulator/TravisCIPractice.app/Podfile
+s420840842.996990
+e420840843.000491
+r1
+xCpResource
+xTravisCIPractice/Podfile
+xbuild/Release-iphonesimulator/TravisCIPractice.app/Podfile
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Release-iphonesimulator/TravisCIPractice.app/Podfile102"[1mCpResource[0m TravisCIPractice/Podfile build/Release-iphonesimulator/TravisCIPractice.app/Podfile6057ff8a8515b941^8120008b8515b941^---0#0#1#-19%DVTDocumentLocation2@133"file://localhost/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/Podfile0038cc9fdfffdf42^894"[1mCpResource[0m TravisCIPractice/Podfile build/Release-iphonesimulator/TravisCIPractice.app/Podfile    cd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres93.app/Contents/MacOS/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/Podfile /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app36"B5DD7BA1-954A-461D-AF81-7C5BF97C8B7F-
+b28093BE5-DDCC-4734-85C9-15FC0104C36A
+
+CCreateUniversalBinary /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/TravisCIPractice normal i386\ x86_64
+s420840842.978535
+e420840842.988945
+r1
+xCreateUniversalBinary
+x/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/TravisCIPractice
+xnormal
+xi386 x86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection150"Create universal binary /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/TravisCIPractice125"[1mCreateUniversalBinary[0m [1mbuild/Release-iphonesimulator/TravisCIPractice.app/TravisCIPractice[0m normal i386\ x86_642ba6fa8a8515b941^cb2dfd8a8515b941^---0#0#1#-19%DVTDocumentLocation2@142"file://localhost/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/TravisCIPractice0038cc9fdfffdf42^1070"[1mCreateUniversalBinary[0m [1mbuild/Release-iphonesimulator/TravisCIPractice.app/TravisCIPractice[0m normal i386\ x86_64    cd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres93.app/Contents/MacOS/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/TravisCIPractice /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/TravisCIPractice -output /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/TravisCIPractice36"1EDF7AAC-71A9-43A3-B11E-4C17B5D2423B-
+b28093BE5-DDCC-4734-85C9-15FC0104C36A
+
+CGenerateDSYMFile /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app.dSYM /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/TravisCIPractice
+s420840843.987198
+e420840844.015228
+r1
+xGenerateDSYMFile
+x/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app.dSYM
+x/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/TravisCIPractice
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Generate /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app.dSYM156"[1mGenerateDSYMFile[0m [1mbuild/Release-iphonesimulator/TravisCIPractice.app.dSYM[0m build/Release-iphonesimulator/TravisCIPractice.app/TravisCIPractice80d2fc8b8515b941^a3e6038c8515b941^---0#0#1#-19%DVTDocumentLocation2@130"file://localhost/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app.dSYM0038cc9fdfffdf42^861"[1mGenerateDSYMFile[0m [1mbuild/Release-iphonesimulator/TravisCIPractice.app.dSYM[0m build/Release-iphonesimulator/TravisCIPractice.app/TravisCIPractice    cd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres93.app/Contents/MacOS/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/TravisCIPractice -o /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app.dSYM36"041BEBD7-319A-4DE4-8870-3ED404B8412F-
+b28093BE5-DDCC-4734-85C9-15FC0104C36A
+
+CLd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/TravisCIPractice normal i386
+s420840842.884715
+e420840842.927870
+r1
+xLd
+x/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/TravisCIPractice
+xnormal
+xi386
+d/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/TravisCIPractice.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/AMOViewController.o
+d/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/AMOAppDelegate.o
+d/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection176"Link /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/TravisCIPractice135"[1mLd[0m build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/TravisCIPractice normal i386309de28a8515b941^0d8bed8a8515b941^---0#0#1#--1743"[1mLd[0m build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/TravisCIPractice normal i386    cd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres93.app/Contents/MacOS/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator -F/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator -filelist /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/TravisCIPractice.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/TravisCIPractice_dependency_info.dat -o /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/i386/TravisCIPractice36"9C50E49F-F461-478F-B408-1BF68893D733-
+b28093BE5-DDCC-4734-85C9-15FC0104C36A
+
+CLd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/TravisCIPractice normal x86_64
+s420840842.884739
+e420840842.969911
+r1
+xLd
+x/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/TravisCIPractice
+xnormal
+xx86_64
+d/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/TravisCIPractice.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/AMOViewController.o
+d/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/AMOAppDelegate.o
+d/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection178"Link /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/TravisCIPractice139"[1mLd[0m build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/TravisCIPractice normal x86_64e59ae28a8515b941^7b4cf88a8515b941^---0#0#1#--1755"[1mLd[0m build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/TravisCIPractice normal x86_64    cd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres93.app/Contents/MacOS/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator -F/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator -filelist /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/TravisCIPractice.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/TravisCIPractice_dependency_info.dat -o /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/Objects-normal/x86_64/TravisCIPractice36"A1B1EFDB-01D5-4DF3-B1C4-A7B871625DE7-
+b28093BE5-DDCC-4734-85C9-15FC0104C36A
+
+CProcessInfoPlistFile /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/Info.plist /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/TravisCIPractice-Info.plist
+s420840843.974461
+e420840843.978455
+r1
+xProcessInfoPlistFile
+x/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/Info.plist
+x/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/TravisCIPractice-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Process /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/TravisCIPractice-Info.plist143"[1mProcessInfoPlistFile[0m build/Release-iphonesimulator/TravisCIPractice.app/Info.plist [1mTravisCIPractice/TravisCIPractice-Info.plist[0m1d93f98b8515b941^527efa8b8515b941^---0#0#1#-19%DVTDocumentLocation2@119"file://localhost/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/TravisCIPractice-Info.plist0000000000000000^1144"[1mProcessInfoPlistFile[0m build/Release-iphonesimulator/TravisCIPractice.app/Info.plist [1mTravisCIPractice/TravisCIPractice-Info.plist[0m    cd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres93.app/Contents/MacOS/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    builtin-infoPlistUtility /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/TravisCIPractice-Info.plist -genpkginfo /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/assetcatalog_generated_info.plist -o /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app/Info.plist36"59F4DF82-FEF3-4230-9182-33FDCEBFB2E9-
+b28093BE5-DDCC-4734-85C9-15FC0104C36A
+
+CProcessPCH /var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-axyxkkdljptwfddnbtcvaijbbirv/TravisCIPractice-Prefix.pch.pch TravisCIPractice/TravisCIPractice-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420840841.905109
+e420840842.726852
+r1
+xProcessPCH
+x/var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-axyxkkdljptwfddnbtcvaijbbirv/TravisCIPractice-Prefix.pch.pch
+xTravisCIPractice/TravisCIPractice-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/TravisCIPractice-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile TravisCIPractice/TravisCIPractice-Prefix.pch334"[1mProcessPCH[0m /var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-axyxkkdljptwfddnbtcvaijbbirv/TravisCIPractice-Prefix.pch.pch TravisCIPractice/TravisCIPractice-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9f02e8898515b941^1b13ba8a8515b941^---0#0#1#-19%DVTDocumentLocation2@119"file://localhost/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/TravisCIPractice-Prefix.pch0000000000000000^4169"[1mProcessPCH[0m /var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-axyxkkdljptwfddnbtcvaijbbirv/TravisCIPractice-Prefix.pch.pch TravisCIPractice/TravisCIPractice-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres93.app/Contents/MacOS/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=130 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-generated-files.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-own-target-headers.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-all-target-headers.hmap -iquote /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-project-headers.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/DerivedSources/i386 -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/DerivedSources -F/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator --serialize-diagnostics /var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-axyxkkdljptwfddnbtcvaijbbirv/TravisCIPractice-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-axyxkkdljptwfddnbtcvaijbbirv/TravisCIPractice-Prefix.pch.d -c /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/TravisCIPractice-Prefix.pch -o /var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-axyxkkdljptwfddnbtcvaijbbirv/TravisCIPractice-Prefix.pch.pch36"3343A727-5CD6-4168-9F3D-5C66FAB6B4A1-
+b28093BE5-DDCC-4734-85C9-15FC0104C36A
+
+CProcessPCH /var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-hgidwrwuhmgtqwdscevnmaokysyf/TravisCIPractice-Prefix.pch.pch TravisCIPractice/TravisCIPractice-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420840841.906608
+e420840842.730954
+r1
+xProcessPCH
+x/var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-hgidwrwuhmgtqwdscevnmaokysyf/TravisCIPractice-Prefix.pch.pch
+xTravisCIPractice/TravisCIPractice-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/TravisCIPractice-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile TravisCIPractice/TravisCIPractice-Prefix.pch336"[1mProcessPCH[0m /var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-hgidwrwuhmgtqwdscevnmaokysyf/TravisCIPractice-Prefix.pch.pch TravisCIPractice/TravisCIPractice-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler8f38e8898515b941^791fbb8a8515b941^---0#0#1#-19%DVTDocumentLocation2@119"file://localhost/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/TravisCIPractice-Prefix.pch0000000000000000^4175"[1mProcessPCH[0m /var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-hgidwrwuhmgtqwdscevnmaokysyf/TravisCIPractice-Prefix.pch.pch TravisCIPractice/TravisCIPractice-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Postgres93.app/Contents/MacOS/bin:/usr/local/heroku/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=130 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-generated-files.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-own-target-headers.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-all-target-headers.hmap -iquote /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/TravisCIPractice-project-headers.hmap -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/DerivedSources/x86_64 -I/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/TravisCIPractice.build/Release-iphonesimulator/TravisCIPractice.build/DerivedSources -F/Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator --serialize-diagnostics /var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-hgidwrwuhmgtqwdscevnmaokysyf/TravisCIPractice-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-hgidwrwuhmgtqwdscevnmaokysyf/TravisCIPractice-Prefix.pch.d -c /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/TravisCIPractice/TravisCIPractice-Prefix.pch -o /var/folders/07/5hl3xwx91jvdc2r48dt7tp_80000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TravisCIPractice-Prefix-hgidwrwuhmgtqwdscevnmaokysyf/TravisCIPractice-Prefix.pch.pch36"FF1A6D69-B7F4-4545-9C9A-6AC624EE9915-
+b28093BE5-DDCC-4734-85C9-15FC0104C36A
+
+CTouch /Users/johnbrunelle/Code/TravisCI-Example/TravisCIPractice/build/Release-iphonesimulator/TravisCIPractice.app
+r0
+
