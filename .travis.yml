@@ -7,5 +7,5 @@ before_script:
     - export LANG=en_US.UTF-8
 
 script:
-    - xctool -workspace TravisCIPractice.xcworkspace -scheme TravisCIPractice -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
-    - xctool test -workspace TravisCIPractice.xcworkspace -scheme TravisCIPracticeTests -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
+    - xcodebuild -workspace TravisCIPractice.xcworkspace -scheme TravisCIPractice -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
+    - xcodebuild test -workspace TravisCIPractice.xcworkspace -scheme TravisCIPracticeTests -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
